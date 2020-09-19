@@ -23,21 +23,21 @@ function App() {
         </select>
       </div>
 
-      <div style={style}>
+      <div style={style} id='item1-div'>
         <span>item1</span>
         <span>item1</span>
         <span>item1</span>
         <span>item1</span>
       </div>
 
-      <div style={style}>
+      <div style={style} id='item2-div'>
         <span>item2</span>
         <span>item2</span>
         <span>item2</span>
         <span>item2</span>
       </div>
 
-      <div style={style}>
+      <div style={style} id='item3-div'>
         <span>item3</span>
         <span>item3</span>
         <span>item3</span>
